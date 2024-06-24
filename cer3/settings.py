@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-))4)6fs=_2(+u)d%k)-hj)*5sw8nz99r8*+5-id)1#t%=m3-_s'
+SECRET_KEY = 'django-insecure-4^b3v_!135!1*dl%%si6&h25fw1&=r#=qej5q-a2c_0-qspgav'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'cer3.wsgi.application'
 import dj_database_url
 
 DATABASES = {
-    'default': dj_database_url.config(default='postgres://postgres:jerex135@cer3_db:5432/cer3')
+    'default': dj_database_url.config(default='postgres://postgres:miau123.@cer3_db:5432/cer3')
 }
 
 
